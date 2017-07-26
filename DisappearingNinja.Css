@@ -1,0 +1,173 @@
+#container {
+    width: 1002px;
+    height: auto;
+    background: white;
+    padding: 2px;
+}
+
+header {
+    width: 1002px;
+    display: inline-block;
+    background: black;
+    height: 150px;
+    border-bottom: 4px solid crimson;
+}
+
+h1 {
+    color: Green;
+    text-align: center;
+    position: relative;
+    bottom: -48px;
+    font-family: 'cabin Sketch';
+    font-size: 50px;
+}
+
+#maincontent {
+    width: 1002px;
+    background: green;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(red, green);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, green);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, green);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, green);
+    /* Standard syntax (must be last) */
+    height: 570px;
+}
+
+#grad1 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-left: 3px dotted goldenrod;
+    border-right: 3px dotted goldenrod;
+    border-bottom: 3px dotted crimson;
+    border-top: 3px dotted crimson;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+#grad2 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-left: 3px dotted goldenrod;
+    border-right: 3px dotted goldenrod;
+    border-bottom: 3px dotted crimson;
+    border-top: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#grad3 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-left: 3px dotted goldenrod;
+    border-right: 3px dotted goldenrod;
+    border-bottom: 3px dotted crimson;
+    border-top: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#grad4 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-left: 3px dotted goldenrod;
+    border-right: 3px dotted goldenrod;
+    border-bottom: 3px dotted crimson;
+    border-top: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#grad5 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-bottom: 3px dotted goldenrod;
+    border-top: 3px dotted goldenrod;
+    border-left: 3px dotted crimson;
+    border-right: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#grad6 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-bottom: 3px dotted goldenrod;
+    border-top: 3px dotted goldenrod;
+    border-left: 3px dotted crimson;
+    border-right: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#grad7 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-bottom: 3px dotted goldenrod;
+    border-top: 3px dotted goldenrod;
+    border-left: 3px dotted crimson;
+    border-right: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+#grad8 {
+    width: 235px;
+    height: 240px;
+    display: inline-block;
+    border-bottom: 3px dotted goldenrod;
+    border-top: 3px dotted goldenrod;
+    border-left: 3px dotted crimson;
+    border-right: 3px dotted crimson;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+button {
+    background: crimson;
+    width: 150px;
+    height: 34px;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    font-family: 'cabin Sketch';
+}
+
+footer {
+    width: 1002px;
+    display: inline-block;
+    background: black;
+    /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(green, black);
+    /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(green, black);
+    /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(green, black);
+    /* For Firefox 3.6 to 15 */
+    background: linear-gradient(green, black);
+    /* Standard syntax (must be last) */
+    height: 570px;
+    height: 150px;
+    border-bottom: 4px dotted crimson;
+}
